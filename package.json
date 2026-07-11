@@ -7,6 +7,9 @@
   ],
   "license": "MIT",
   "author": "Petr Baudis",
+  "scripts": {
+    "test": "node --test"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/pasky/pi-session-summary.git"
